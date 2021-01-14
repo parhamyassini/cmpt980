@@ -16,7 +16,6 @@ Project summary and demo video: https://youtu.be/8QBZlXfdA4w
     <li>
       <a href="#getting-started">Getting Started</a>
     </li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
